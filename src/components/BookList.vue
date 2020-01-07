@@ -32,8 +32,8 @@ ul {
   list-style-type: none;
   padding: 0;
 }
-li {
+/* li {
   display: block;
   margin: 0 10px;
-}
+} */
 </style>
